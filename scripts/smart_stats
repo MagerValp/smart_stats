@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#!/usr/local/munkireport/munkireport-python2
 # smart_stats script by tuxudo for MunkiReport
 
 import subprocess
